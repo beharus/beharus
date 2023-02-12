@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-5F9EA0?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
+<img src="https://img.shields.io/badge/HTML-FF8C00?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/css-1E90FF?style=for-the-badge&logo=css3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/bootstrap-8A2BE2?style=for-the-badge&logo=bootstrap&logoColor=ffffff"/> <img src="https://img.shields.io/badge/tailwind-24294d?style=for-the-badge&logo=tailwind css&logoColor=DarkCyan"/> <img src="https://img.shields.io/badge/javascript-FFD700?style=for-the-badge&logo=javascript&logoColor=A0522D"/> <img src="https://img.shields.io/badge/react-FFD700?style=for-the-badge&logo=react&logoColor=A0522D"/>
 <!--
 **beharus/beharus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
