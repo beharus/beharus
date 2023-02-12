@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="https://img.shields.io/badge/HTML-5F9EA0?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/css-5F9EA0?style=for-the-badge&logo=css3&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-5F9EA0?style=for-the-badge&logo=HTML5&logoColor=ffffff"/> <img src="https://img.shields.io/badge/HTML-5F9EA0?style=for-the-badge&logo=HTML5&logoColor=ffffff"/>
 <!--
 **beharus/beharus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
